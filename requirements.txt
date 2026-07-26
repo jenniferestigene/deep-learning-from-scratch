@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+torch
+medmnist
+genomic-benchmarks
+jupyter
