@@ -29,7 +29,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Unlike the classical ML repo, this one does download real data on first run — MedMNIST and genomic_benchmarks fetch their datasets automatically the first time each notebook loads them.
+Every notebook fetches its dataset automatically the first time it runs.
 
 ## License
 
